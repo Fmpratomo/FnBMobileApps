@@ -3,4 +3,4 @@ install expo CLI : npm install -g expo-cli
 install dependency : npm install
 run application : expo start / npm start
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Menu](https://github.com/Fmpratomo/ShoppingApps/blob/master/screenshoot/Home.jpg)
