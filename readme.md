@@ -9,4 +9,4 @@ run application : expo start / npm start
 
 ![Image of Detail](https://github.com/Fmpratomo/ShoppingApps/blob/master/screenshoot/Cart.jpg)
 
-![Image of Detail](https://github.com/Fmpratomo/ShoppingApps/blob/master/screenshoot/Order Form.jpg)
+![Image of Detail](https://github.com/Fmpratomo/ShoppingApps/blob/master/screenshoot/OrderForm.jpg)
