@@ -4,7 +4,7 @@ const PRODUCTS = [
   new Product(
     'p1',
     'u1',
-    'Apple Watchss',
+    'Apple Watchs',
     'https://images-na.ssl-images-amazon.com/images/I/718jBZezfdL._SL400_.jpg',
     'Apple Watch Series 3 (GPS, 38mm) - Silver Aluminium Case with Black Sport Band',
     200
