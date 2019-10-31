@@ -95,4 +95,4 @@ const ShopNavigator = createBottomTabNavigator(
   }
 );
 
-export default createAppContainer(ShopNavigator);
+export default createAppContainer(ProductsNavigator);
