@@ -12,4 +12,4 @@ run application : expo start / npm start
 
 ![Image of Detail](https://github.com/Fmpratomo/FnBMobileApps/blob/master/screenshoot/Cart.jpg)
 
-![Demo gif](https://github.com/Fmpratomo/FnBMobileApps/blob/master/screenshoot/testGif.jpg)
+![Demo gif](https://github.com/Fmpratomo/FnBMobileApps/blob/master/screenshoot/testGif.gif)
