@@ -11,3 +11,5 @@ run application : expo start / npm start
 
 
 ![Image of Detail](https://github.com/Fmpratomo/FnBMobileApps/blob/master/screenshoot/Cart.jpg)
+
+![Demo gif](/assets/demo.gif)
